@@ -6,39 +6,32 @@
 -->
   <text><b>currently working with</b></text>
   <br/>
-  <text>React | React Native | JavaScript | TypeScript | Sass | Firebase | MySQL</text>
+  <text>React | React Native | JavaScript | TypeScript | Firebase | MySQL</text>
   <br/><br/>
   <text><b>familiar with</b></text>
   <br/>
-  <text>C | C++ | C# | Java | Python | VB | .NET | HTML | CSS | Node</text>
+  <text>C | UI/UX | HTML | CSS | Node</text>
   <br/><br/>
   <text><b>connect with me</b></text>
   <br/>
-  <a title="Google me" href="https://www.google.com/search?q=cmcodes&rlz=1C1CHZN_enIN928IN928&oq=cmcodes&aqs=chrome.0.69i59j35i39j0i10i30j69i60l3j69i65.2924j0j4&sourceid=chrome&ie=UTF-8">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Google-512.png" width="50" height="50" />
+  <a title="Google me" href="https://avatars.githubusercontent.com/u/53520463?v=4" width="50" height="50" />
   </a>
-  <a title="View my website" href="https://www.cmcodes.in/">
-    <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png" width="50" height="50" />
-  </a>
-  <a title="Read my blogs on DEV" href="https://dev.to/cmcodes">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-  </a>
-  <a title="View my Instagram profile" href="https://instagram.com/cmcodes">
+ 
+ 
+  <a title="View my Instagram profile" href="https://instagram.com/uiuxpoint">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="50" height="50" />
   </a>
-  <a title="Email me" href="mailto:cm@cmcodes.in">
+  <a title="Email me" href="mailto:qzaid797@gmail.com">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
   </a>
-  <a title="View my Stackoverflow profile" href="https://stackoverflow.com/users/8161436/cmcodes">
+  <a title="View my Stackoverflow profile" href="https://stackoverflow.com/users/12182403/zaid-qureshi">
     <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
   </a>
-  <a title="View my Twitter profile" href="https://twitter.com/cmcodes1">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
+
+  <a title="Ping me on Whatsapp" href="https://wa.me/+923077729797">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Whatsapp_telephone_handset-512.png" width="50" height="50" />
   </a>
-  <a title="Ping me on Telegram" href="https://t.me/cmcodes">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-22-512.png" width="50" height="50" />
-  </a>
-  <a title="View my profile on LinkedIn" href="https://linkedin.com/in/cmcodes">
+  <a title="View my profile on LinkedIn" href="https://www.linkedin.com/in/zaid-qureshi/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
   <br/>
