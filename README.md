@@ -24,7 +24,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Mobile App Developer Specialist at Tryngo Services
+### I am a Mobile App Developer Specialist 
 - 🔭 I’m currently working on my Amazing Stuff :grin:
 - 🌱 I’m currently learning Nodejs.
 - 👯 I’m looking to collaborate with other Developers :wink:
